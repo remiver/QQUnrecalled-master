@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QQUnrecalled</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="recalled_message">recalled message</string>
+    <string name="show_content">Show recalled content (only text)</string>
+    <string name="enable_notification">Enable message recall notification</string>
+    <string name="hide_icon">Hide launcher icon</string>
+    <string name="show_icon">Show launcher icon</string>
+    <string name="qq_recalled_msg_content">tried to recall a message (Prevented)</string>
+    <string name="enable_troopassistant_notification">Enable message recall notification for groupchat in troopassistant</string>
+    <string name="qq_recalled_offline">recalled a message (not received)</string>
+    <string name="enable_vibrate">Enable vibrate</string>
+    <string name="enable_ringtone">Enable ringtone</string>
+    <string name="select_ringtone">Select ringtone</string>
+    <string name="default_text">Default</string>
+    <string name="support">If you like my work and want to support me, click here</string>
+    <string name="alipay">Alipay</string>
+    <string name="wechat">Wechat</string>
+    <string name="click_to_download_from_the_web">Click to download from the web</string>
+</resources>
